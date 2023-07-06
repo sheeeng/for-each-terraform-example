@@ -1,4 +1,4 @@
-# for-each-terraform-examples
+# for-each-terraform-example
 
 ```bash
 terraform init -upgrade \
